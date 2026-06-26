@@ -135,4 +135,8 @@ This Jupyter notebook contains the code to generate a simulated Micro-C contact 
 
 This Jupyter notebook is used to calculate the ground-truth looping probabilities (y-values) from the simulated trajectories, as well as the Micro-C dot strengths (x-values) from the simulated Micro-C contact map, to be used in the simulated calibration curve.
 
+## How to cite
 
+This work is shared under an MIT license. If you make use of analysis scripts or data from this work, please cite as follows:
+
+J. M. Jusuf, J. H. Yang, J. Toppen, S. Grosse-Holz, M. Gabriele, P. Mach, I. M. Flyamer, C. Zechner, L. Giorgetti, L. A. Mirny, A. S. Hansen, Genome-wide absolute quantification of chromatin looping. Nat. Struct. Mol. Biol. (2026). doi: 10.1038/s41594-026-01819-2.
